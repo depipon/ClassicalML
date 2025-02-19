@@ -1,1 +1,1 @@
-# ClassicalML
+# Classical Machine Learning
